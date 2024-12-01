@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cloudchuma
+- 👋 Hi, I’m @CHUKWUMA
 - 👀 I’m interested in Azure, Aws, Gcp, Terraform, Devops, Ci/Cd, Containerization
 - 🌱 I’m currently learning Devops, Containerization
 - 💞️ I’m looking to collaborate on ...
